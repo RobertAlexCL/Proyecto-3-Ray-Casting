@@ -1,5 +1,7 @@
 # Proyecto-3-Ray-Casting
 
+Video de youtube con enlace a la demostración de FPS: https://youtu.be/mW4M0wle_5o
+
 El objetivo de éste proyecto es demostrar los conocimientos adquiridos durante la tercera parte del curso.
 
 Los alumnos deben entregar un Ray Caster simple (usando PyGame o SDL) que renderice un nivel entero y jugable.
